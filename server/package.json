@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "a fake json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json"
+  },
+  "author": "Fabjo Plaka",
+  "license": "ISC"
+}
