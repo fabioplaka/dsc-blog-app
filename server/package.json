@@ -7,5 +7,8 @@
     "test": "json-server --watch db.json"
   },
   "author": "Fabjo Plaka",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
