@@ -1,4 +1,4 @@
-To start the application firsly, we need to install node dependencies.
+To start the application firsly, we need to install dependencies.
 Please follow this steps from terminal inside project:
 
 1. **cd client**
